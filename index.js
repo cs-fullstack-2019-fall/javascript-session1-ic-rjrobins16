@@ -51,10 +51,10 @@ function press1() {
     } else if (userInput2 === "c") {
         alert("C")
     }
-    return userInput2
-}
-
 
 //     ### Challenge 2
 // - Return the values of a, b, or c to use in the main function.
+    return userInput2
+}
+
 
